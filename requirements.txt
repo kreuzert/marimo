@@ -1,0 +1,2 @@
+marimo>=0.6.21
+jupyter-marimo-proxy
