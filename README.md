@@ -1,4 +1,4 @@
-[![NFDI](https://nfdi-jupyter.de/images/nfdi_badge.svg)](https://hub.nfdi-jupyter.de/r2d/gh/kreuzert/marimo)
+[![NFDI](https://nfdi-jupyter.de/images/nfdi_badge.svg)](https://hub.nfdi-jupyter.de/r2d/gh/kreuzert/marimo/HEAD)
 
 # Marimo on Jupyter4NFDI
 
